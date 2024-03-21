@@ -1,0 +1,79 @@
+body{
+    background-color: #081b29;
+}
+
+.logo{
+    color: aqua;
+    font-size: x-large;
+    font-weight: 600;
+    font-style: italic;
+}
+
+header{
+    background-color: #081b29;
+    height: 10vh;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 10%;
+}
+
+span{
+    color: greenyellow;
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+.home{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 40%;
+}
+
+.content h1{
+    color: beige;
+}
+.content h2{
+    color: blanchedalmond;
+}
+
+
+.content{
+    display: block;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 190px;
+}
+
+.cortado{
+    display: flex;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.cortado p{
+    color: beige;
+    margin: 30px;
+    font-size: x-large;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+.container p{
+    color: beige;
+    margin: 30px;
+    font-size: x-large;
+    margin-right: 300px;
+    margin-left: 150px;
+}
+
+.Image{
+    margin-right: 15%;
+}
+
+
